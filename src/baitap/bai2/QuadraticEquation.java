@@ -74,7 +74,6 @@ public class QuadraticEquation {
         }
     }
 
-    // Phương thức chính để thử nghiệm
 
 
 }
